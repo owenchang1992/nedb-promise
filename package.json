@@ -1,0 +1,25 @@
+{
+  "name": "nedb-promise",
+  "version": "1.0.0",
+  "description": "Wrap the nedb method into promise",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/owenchang1992/nedb-promise.git"
+  },
+  "author": "Owen Chang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/owenchang1992/nedb-promise/issues"
+  },
+  "homepage": "https://github.com/owenchang1992/nedb-promise#readme",
+  "dependencies": {
+    "nedb": "^1.8.0"
+  }
+}
